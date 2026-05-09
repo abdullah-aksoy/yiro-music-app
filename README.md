@@ -1,5 +1,13 @@
-# Spofity App
-
+# Yiro App
+Uygulama içerisinden bazı ekran görüntüleri...<br/>
+<br/>
+<img width="1920" height="1032" alt="Screenshot 2026-05-09 221729" src="https://github.com/user-attachments/assets/e15add41-3dcf-4566-aac9-dcbdcc1a58b8" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-09 221809" src="https://github.com/user-attachments/assets/cddc0524-712f-4de7-9f69-e5053bef62e1" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-09 221931" src="https://github.com/user-attachments/assets/9575e531-000c-4edc-a723-d108125e5c32" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-09 221854" src="https://github.com/user-attachments/assets/17962f26-a029-45d5-8148-968b2b9587ca" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-09 222314" src="https://github.com/user-attachments/assets/1c12d464-0b01-4751-8396-e0e59677319d" />
+<br/>
+<br/>
 Spotify benzeri dinleme deneyimi: **FastAPI** API, **PostgreSQL** + **Alembic**, arayüz **Vite + TypeScript** ile derlenir; çıktı `app/static` altına yazılır ve tarayıcıda **http://localhost:8010/ui/** adresinden açılır.
 
 ## Gereksinimler
