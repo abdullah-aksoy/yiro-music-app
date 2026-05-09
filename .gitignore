@@ -1,0 +1,21 @@
+# Veritabanı dökümleri (pg_dump) — kullanıcı verisi, token, şifre içerebilir
+*.sql
+
+# Ortam sırları — asla commit etmeyin; şablon: .env.example
+.env
+.env.local
+.env.*.local
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+static2/app.js
+static2/index.html
+static2/style.css
+static2/sw.js
+static2/yiro-logo.png

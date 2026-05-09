@@ -1,0 +1,546 @@
+[
+  {
+  "id": 1,
+  "artist_name": "Manifest",
+  "title": "Amatör",
+  "file": "manifest-amator.mp4",
+  "sort_order": 0,
+  "itunes_track_id": 1855827118
+  },
+  {
+  "id": 2,
+  "artist_name": "Manifest",
+  "title": "Arıyo",
+  "file": "manifest-ariyo.mp4",
+  "sort_order": 1,
+  "itunes_track_id": 1803619035
+  },
+  {
+  "id": 3,
+  "artist_name": "Manifest",
+  "title": "Başrol Sensin",
+  "file": "manifest-basrol-sensin.mp4",
+  "sort_order": 2,
+  "itunes_track_id": 1875885671
+  },
+  {
+  "id": 4,
+  "artist_name": "Manifest",
+  "title": "KTS",
+  "file": "manifest-kts.mp4",
+  "sort_order": 3,
+  "itunes_track_id": 1813439601
+  },
+  {
+  "id": 5,
+  "artist_name": "Manifest",
+  "title": "Rüya",
+  "file": "manifest-ruya.mp4",
+  "sort_order": 4,
+  "itunes_track_id": 1839930444
+  },
+  {
+  "id": 6,
+  "artist_name": "Manifest",
+  "title": "Snap",
+  "file": "manifest-snap.mp4",
+  "sort_order": 5,
+  "itunes_track_id": 1813439265
+  },
+  {
+  "id": 7,
+  "artist_name": "Manifest",
+  "title": "Yaşanacaksa",
+  "file": "manifest-yasanacaksa.mp4",
+  "sort_order": 6,
+  "itunes_track_id": 1836369568
+  },
+  {
+  "id": 8,
+  "artist_name": "Bengü",
+  "title": "Saygımdan",
+  "file": "bengu-saygimdan.mp4",
+  "sort_order": 7,
+  "itunes_track_id": 929534967
+  },
+  {
+  "id": 9,
+  "artist_name": "AKDO & Lvbel C5",
+  "title": "SUBMARINER",
+  "file": "akdolvbelc5-submariner.mp4",
+  "sort_order": 8,
+  "itunes_track_id": 1788503307
+  },
+  {
+  "id": 10,
+  "artist_name": "50 Cent",
+  "title": "In Da Club",
+  "file": "50cent-indaclub.mp4",
+  "sort_order": 9,
+  "itunes_track_id": 1440907550
+  },
+  {
+  "id": 11,
+  "artist_name": "Ati242",
+  "title": "Değişmene Rağmen",
+  "file": "ati242-degismeneragmen.mp4",
+  "sort_order": 10,
+  "itunes_track_id": 1753964803
+  },
+  {
+  "id": 12,
+  "artist_name": "Ben Fero",
+  "title": "Biladerim İçin",
+  "file": "benfero-biladerimicin.mp4",
+  "sort_order": 11,
+  "itunes_track_id": 1451258804
+  },
+  {
+  "id": 13,
+  "artist_name": "Ben Fero",
+  "title": "Bitmiyor",
+  "file": "benfero-bitmiyor.mp4",
+  "sort_order": 12,
+  "itunes_track_id": 1692518324
+  },
+  {
+  "id": 14,
+  "artist_name": "Benson Boone",
+  "title": "Beautiful Things",
+  "file": "bensonboone-beautifulthings.mp4",
+  "sort_order": 13,
+  "itunes_track_id": 1724488124
+  },
+  {
+  "id": 15,
+  "artist_name": "Billie Eilish",
+  "title": "BIRDS OF A FEATHER",
+  "file": "billieeilish-birdsofafeather.mp4",
+  "sort_order": 14,
+  "itunes_track_id": 1739659142
+  },
+  {
+  "id": 16,
+  "artist_name": "Çağla & Doğu Swag",
+  "title": "Seni Düşündüm",
+  "file": "cagladogu-senidusundum.mp4",
+  "sort_order": 15,
+  "itunes_track_id": 1826377770
+  },
+  {
+  "id": 17,
+  "artist_name": "Coolio",
+  "title": "Gangsta's Paradise",
+  "file": "cooliofeatlv-gangstasparadise.mp4",
+  "sort_order": 16,
+  "itunes_track_id": 1604645502
+  },
+  {
+  "id": 18,
+  "artist_name": "Daft Punk",
+  "title": "Instant Crush",
+  "file": "daftpunk-instantcrush.mp4",
+  "sort_order": 17,
+  "itunes_track_id": 617154362
+  },
+  {
+  "id": 19,
+  "artist_name": "Dedublüman & Aleyna Tilki",
+  "title": "Sana Güvenmiyorum",
+  "file": "dedublumanaleynatilki-sanaguvenmiyorum.mp4",
+  "sort_order": 18,
+  "itunes_track_id": 1773292419
+  },
+  {
+  "id": 20,
+  "artist_name": "Derya Bedavacı",
+  "title": "Seni Seven",
+  "file": "deryabedavaci-seniseven.mp4",
+  "sort_order": 19,
+  "itunes_track_id": 1778246217
+  },
+  {
+  "id": 21,
+  "artist_name": "Duman",
+  "title": "Seni Kendime Sakladım",
+  "file": "duman-senikendimesakladim.mp4",
+  "sort_order": 20,
+  "itunes_track_id": 1411731287
+  },
+  {
+  "id": 22,
+  "artist_name": "ElMusto",
+  "title": "Dale Don Dale",
+  "file": "elmusto-daledondale.mp4",
+  "sort_order": 21,
+  "itunes_track_id": 1744118413
+  },
+  {
+  "id": 23,
+  "artist_name": "Eminem",
+  "title": "The Real Slim Shady",
+  "file": "eminem-therealslimshady.mp4",
+  "sort_order": 22,
+  "itunes_track_id": 1440906589
+  },
+  {
+  "id": 24,
+  "artist_name": "Eminem",
+  "title": "Without Me",
+  "file": "eminem-withoutme.mp4",
+  "sort_order": 23,
+  "itunes_track_id": 1440821643
+  },
+  {
+  "id": 25,
+  "artist_name": "Gripin",
+  "title": "Aşk Nerden Nereye",
+  "file": "gripin-asknerdennereye.mp4",
+  "sort_order": 24,
+  "itunes_track_id": 585066058
+  },
+  {
+  "id": 26,
+  "artist_name": "Gülden",
+  "title": "Mendil",
+  "file": "gulden-mendil.mp4",
+  "sort_order": 25,
+  "itunes_track_id": 1467942559
+  },
+  {
+  "id": 27,
+  "artist_name": "Era7 Capone & Batuflex",
+  "title": "Cıstak",
+  "file": "era7caponebatuflex-cistak.mp4",
+  "sort_order": 26,
+  "itunes_track_id": 1833313799
+  },
+  {
+  "id": 28,
+  "artist_name": "İkiye On Kala",
+  "title": "Kafamda Kentsel Dönüşümler",
+  "file": "ikiyeonkala-kafamdakentseldonusumler.mp4",
+  "sort_order": 27,
+  "itunes_track_id": 1598474549
+  },
+  {
+  "id": 29,
+  "artist_name": "Kalben",
+  "title": "Yara",
+  "file": "kalben-yara.mp4",
+  "sort_order": 28,
+  "itunes_track_id": 1298057064
+  },
+  {
+  "id": 30,
+  "artist_name": "KÖFN & Simge",
+  "title": "Yakışıklı",
+  "file": "kofnsimge-yakisikli.mp4",
+  "sort_order": 29,
+  "itunes_track_id": 1716601601
+  },
+  {
+  "id": 31,
+  "artist_name": "Kubilay Karça",
+  "title": "Ayaza Serdim",
+  "file": "kubilaykarca-ayazaserdim.mp4",
+  "sort_order": 30,
+  "itunes_track_id": 1788953873
+  },
+  {
+  "id": 32,
+  "artist_name": "Linkin Park",
+  "title": "In the End",
+  "file": "linkinpark-intheend.mp4",
+  "sort_order": 31,
+  "itunes_track_id": 590431785
+  },
+  {
+  "id": 33,
+  "artist_name": "Linkin Park",
+  "title": "Numb",
+  "file": "linkinpark-numb.mp4",
+  "sort_order": 32,
+  "itunes_track_id": 590423552
+  },
+  {
+  "id": 34,
+  "artist_name": "Lvbel C5",
+  "title": "HAVHAVHAV",
+  "file": "lvbelc5-havhavhav.mp4",
+  "sort_order": 33,
+  "itunes_track_id": 1790622579
+  },
+  {
+  "id": 35,
+  "artist_name": "Mor ve Ötesi",
+  "title": "Bir Derdim Var",
+  "file": "morveotesi-birderdimvar.mp4",
+  "sort_order": 34,
+  "itunes_track_id": 860519783
+  },
+  {
+  "id": 36,
+  "artist_name": "Nejat Alp",
+  "title": "Arkadaşım",
+  "file": "nejatalp-arkadasim.mp4",
+  "sort_order": 35,
+  "itunes_track_id": 319456098
+  },
+  {
+  "id": 37,
+  "artist_name": "Norm Ender & Ebru Güneş",
+  "title": "Bir Çift Göz",
+  "file": "normenderebrugunes-birciftgoz.mp4",
+  "sort_order": 36,
+  "itunes_track_id": 1821197041
+  },
+  {
+  "id": 38,
+  "artist_name": "PinkPantheress & Zara Larsson",
+  "title": "Stateside",
+  "file": "pinkpantheresszaralarsson-stateside.mp4",
+  "sort_order": 37,
+  "itunes_track_id": 1843595808
+  },
+  {
+  "id": 39,
+  "artist_name": "Poizi & Murat Boz",
+  "title": "Yapar Mısın",
+  "file": "poizimuratboz-yaparmisin.mp4",
+  "sort_order": 38,
+  "itunes_track_id": 1827939500
+  },
+  {
+  "id": 40,
+  "artist_name": "Post Malone & Swae Lee",
+  "title": "Sunflower",
+  "file": "postmaloneswaelee-sunflower.mp4",
+  "sort_order": 39,
+  "itunes_track_id": 1445949267
+  },
+  {
+  "id": 41,
+  "artist_name": "Poizi",
+  "title": "Çıkar Biri Karşıma",
+  "file": "poziera7capone-cikarbirikarsima.mp4",
+  "sort_order": 40,
+  "itunes_track_id": 1796359548
+  },
+  {
+  "id": 42,
+  "artist_name": "Semicenk",
+  "title": "Gözlerinden Gözlerine",
+  "file": "semicenk-gozlerindengozlerine.mp4",
+  "sort_order": 41,
+  "itunes_track_id": 1791166808
+  },
+  {
+  "id": 43,
+  "artist_name": "Semicenk",
+  "title": "Kalpsiz",
+  "file": "semicenk-kalpsiz.mp4",
+  "sort_order": 42,
+  "itunes_track_id": 1818077626
+  },
+  {
+  "id": 44,
+  "artist_name": "Semicenk",
+  "title": "Sen Kaldın",
+  "file": "semicenk-senkaldin.mp4",
+  "sort_order": 43,
+  "itunes_track_id": 1757698294
+  },
+  {
+  "id": 45,
+  "artist_name": "Semicenk",
+  "title": "Sevecek Sandım",
+  "file": "semicenk-seveceksandim.mp4",
+  "sort_order": 44,
+  "itunes_track_id": 1647204156
+  },
+  {
+  "id": 46,
+  "artist_name": "Semicenk & Doğu Swag",
+  "title": "Pişman Değilim",
+  "file": "semicenkdoguswag-pismandegilim.mp4",
+  "sort_order": 45,
+  "itunes_track_id": 1689127265
+  },
+  {
+  "id": 47,
+  "artist_name": "Serdar Ortaç",
+  "title": "Karabiberim",
+  "file": "serdarortac-karabiberim.mp4",
+  "sort_order": 46,
+  "itunes_track_id": 587722142
+  },
+  {
+  "id": 48,
+  "artist_name": "Serdar Ortaç",
+  "title": "Poşet",
+  "file": "serdarortac-poset.mp4",
+  "sort_order": 47,
+  "itunes_track_id": 585077589
+  },
+  {
+  "id": 49,
+  "artist_name": "Sertab Erener",
+  "title": "Olsun",
+  "file": "sertaperener-olsun.mp4",
+  "sort_order": 48,
+  "itunes_track_id": 1112535194
+  },
+  {
+  "id": 50,
+  "artist_name": "Simge",
+  "title": "Aşkın Olayım",
+  "file": "simge-askinolayim.mp4",
+  "sort_order": 49,
+  "itunes_track_id": 1387471428
+  },
+  {
+  "id": 51,
+  "artist_name": "Simge",
+  "title": "Önümüz Yaz",
+  "file": "simge-onumuzyaz.mp4",
+  "sort_order": 50,
+  "itunes_track_id": 1750706498
+  },
+  {
+  "id": 52,
+  "artist_name": "The Cranberries",
+  "title": "Zombie",
+  "file": "thecranberries-zombie.mp4",
+  "sort_order": 51,
+  "itunes_track_id": 1828830887
+  },
+  {
+  "id": 53,
+  "artist_name": "The Weeknd",
+  "title": "Blinding Lights",
+  "file": "theweeknd-blindinglights.mp4",
+  "sort_order": 52,
+  "itunes_track_id": 1488408568
+  },
+  {
+  "id": 54,
+  "artist_name": "The Weeknd & Daft Punk",
+  "title": "Starboy",
+  "file": "theweeknddaftpunk-starboy.mp4",
+  "sort_order": 53,
+  "itunes_track_id": 1440870375
+  },
+  {
+  "id": 55,
+  "artist_name": "The White Stripes",
+  "title": "Seven Nation Army",
+  "file": "thewhitestripes-sevennationarmy.mp4",
+  "sort_order": 54,
+  "itunes_track_id": 1533513537
+  },
+  {
+  "id": 56,
+  "artist_name": "UZI",
+  "title": "Neon",
+  "file": "uzi-neon.mp4",
+  "sort_order": 55,
+  "itunes_track_id": 1788947200
+  },
+  {
+  "id": 57,
+  "artist_name": "UZI",
+  "title": "Paparazzi",
+  "file": "uzi-paparazzi.mp4",
+  "sort_order": 56,
+  "itunes_track_id": 1594110559
+  },
+  {
+  "id": 58,
+  "artist_name": "Yıldız Tilbe",
+  "title": "Aşk Yok Olmaktır",
+  "file": "yildiztilbe-askyokolmaktir.mp4",
+  "sort_order": 57,
+  "itunes_track_id": 587234688
+  },
+  {
+  "id": 59,
+  "artist_name": "Queen",
+  "title": "Bohemian Rhapsody",
+  "file": "queen-bohemianrhapsody.mp4",
+  "sort_order": 58,
+  "itunes_track_id": 1440650711
+  },
+  {
+  "id": 60,
+  "artist_name": "Queen",
+  "title": "Don't Stop Me Now",
+  "file": "queen-dontstopmenow.mp4",
+  "sort_order": 59,
+  "itunes_track_id": 1440650733
+  },
+  {
+  "id": 61,
+  "artist_name": "Radiohead",
+  "title": "Creep",
+  "file": "radiohead-creep.mp4",
+  "sort_order": 60,
+  "itunes_track_id": 1679849823
+  },
+  {
+  "id": 62,
+  "artist_name": "Rick Astley",
+  "title": "Never Gonna Give You Up",
+  "file": "rickastley-nevergonnagiveyouup.mp4",
+  "sort_order": 61,
+  "itunes_track_id": 1559885421
+  },
+  {
+  "id": 63,
+  "artist_name": "Sefo & CAPO",
+  "title": "Isabelle",
+  "file": "sefocapo-isabelle.mp4",
+  "sort_order": 62,
+  "itunes_track_id": 1697296750
+  },
+  {
+  "id": 64,
+  "artist_name": "Sefo & Demet Akalın",
+  "title": "Yerinde Dur",
+  "file": "sefodemetakalin-yerindedur.mp4",
+  "sort_order": 63,
+  "itunes_track_id": 1822502735
+  },
+  {
+  "id": 65,
+  "artist_name": "Zeynep Bastık",
+  "title": "Lan",
+  "file": "zeynepbastik-lan.mp4",
+  "sort_order": 64,
+  "itunes_track_id": 1733527958
+  },
+  {
+  "id": 66,
+  "artist_name": "KÖFN",
+  "title": "Bi' Tek Ben Anlarım",
+  "file": "kofn-bitekbenanlarim.mp4",
+  "sort_order": 65,
+  "itunes_track_id": 1611414316
+  },
+  {
+  "id": 67,
+  "artist_name": "Semicenk & Rast",
+  "title": "Canın Sağ Olsun",
+  "file": "semicenkrast-caninsagolsun.mp4",
+  "sort_order": 66,
+  "itunes_track_id": 1682122200
+  },
+  {
+  "id": 68,
+  "artist_name": "Sıla Şahin & Samet Kardeşler",
+  "title": "Aldanırım",
+  "file": "sametkardeslersilasahin-aldanirim.mp4",
+  "sort_order": 67,
+  "itunes_track_id": 1790869754
+  }
+  ]

@@ -1,0 +1,25 @@
+Performance baseline — how to measure (Faz 0)
+==============================================
+
+1) Browser (Chrome/Edge)
+   - Open the app with profiling: add ?perf=1 to the URL, or run:
+     localStorage.setItem("yiroPerf", "1"); location.reload();
+   - DevTools → Performance: record while: cold load, login, search typing, Analytics tab, artist detail, queue scroll.
+   - DevTools → Network: note slow requests (waterfall, TTFB).
+   - In Performance, check User Timings for: yiro-search-fetch, yiro-render-search, yiro-data-refresh (full tab refresh), yiro-refresh-light, yiro-refresh-heavy.
+
+2) Backend (after request timing middleware is deployed)
+   - Check server logs for lines like: slow_request path=... duration_ms=...
+   - Note which API paths exceed 300–500 ms under normal load.
+
+3) Record results here (update when you change infra or major features)
+   Date:
+   Environment:
+   Main bottleneck (UI):
+   Main bottleneck (API):
+   yiro-data-refresh typical ms (if perf on):
+   yiro-search-fetch typical ms:
+
+4) Tiered refresh (implemented in application.ts)
+   - Light poll: every DATA_REFRESH_INTERVAL_MS (default 90s).
+   - Heavy poll: every DATA_HEAVY_REFRESH_INTERVAL_MS (default 5m).

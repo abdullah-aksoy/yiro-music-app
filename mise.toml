@@ -1,0 +1,5 @@
+# Railpack (Railway): install Node alongside Python so Custom Build Command can run `npm ci && npm run build`.
+# https://railpack.com/config/mise
+[tools]
+python = "3.13"
+node = "20"

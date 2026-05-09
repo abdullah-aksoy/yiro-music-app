@@ -1,0 +1,6 @@
+React migration (product decision)
+----------------------------------
+- Full rewrite: high cost; only if the team commits to React long-term.
+- Hybrid path: add a second root (e.g. mount createRoot on a dedicated element) for new screens only; keep this bundle for existing views until migrated.
+- Prerequisite: keep using this Vite pipeline; add react + react-dom + @vitejs/plugin-react when you start.
+- State: either lift shared data via a thin event bus / fetch layer, or gradually introduce a client store (TanStack Query, etc.) for new React islands.

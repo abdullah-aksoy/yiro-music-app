@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+psycopg2-binary
+alembic
+pydantic-settings
+email-validator
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+# passlib reads bcrypt.__about__; removed in bcrypt 4.1+ (noisy traceback + slower verify fallback)
+bcrypt>=4.0.1,<4.1
+httpx
+mutagen
+python-multipart
+pytest
+pytest-asyncio
+redis[hiredis]
+
